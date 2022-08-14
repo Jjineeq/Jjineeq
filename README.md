@@ -4,9 +4,10 @@
 ![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq&show_icons=true&theme=dracula)
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Rstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat&logo=Rstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+![Build Status](https://img.shields.io/badge/-Python-brightgreen)
+![Build Status](https://img.shields.io/badge/-Rstudio-brightgreen)
+![Build Status](https://img.shields.io/badge/-MySQL-brightgreen)
+
 
 
 <!--
