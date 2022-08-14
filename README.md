@@ -4,6 +4,7 @@
 ![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq&show_icons=true&theme=dracula)
 <!--
 
+[![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq)](https://github.com/Jjineeq/github-readme-stats)
 
 **Jjineeq/Jjineeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
