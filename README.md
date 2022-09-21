@@ -1,4 +1,7 @@
 ### Hi there 👋
+### It's not officially open yet
+### I'm just using it as a cloud
+### You can use the code at any time
 
 
 ![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq&show_icons=true&theme=dracula)
