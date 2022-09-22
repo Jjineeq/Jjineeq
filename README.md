@@ -22,7 +22,8 @@
 	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 	
-	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjineeq&langs_count=8)](https://github.com/jjineeq/github-readme-stats)
+
 
 
 
