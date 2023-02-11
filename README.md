@@ -18,7 +18,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=Jjineeq:jangsung0212@gmail.com)](mailto:jangsung0212@gmail.com)
 
-<script src="https://gist.github.com/Jjineeq/97a225897ebb801cd4a155a422b3a100.js"></script>
 <!--
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 	
