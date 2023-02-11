@@ -4,8 +4,9 @@
 ### It's not officially open yet
 ### I'm just using it as a cloud
 ### You can use the code at any time
-
-
+	
+#
+	
 ![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjineeq&langs_count=8&layout=compact&theme=dark)](https://github.com/jjineeq/github-readme-stats)
@@ -14,6 +15,7 @@
 -->
 
 #
+	
 ![Build Status](https://img.shields.io/badge/-Python-black)
 ![Build Status](https://img.shields.io/badge/-Rstudio-black)
 ![Build Status](https://img.shields.io/badge/-MySQL-black)
