@@ -10,7 +10,9 @@
 ![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjineeq&langs_count=8&layout=compact&theme=dark)](https://github.com/jjineeq/github-readme-stats)
+
 <!--
+[![Jjineeq's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jjineeq&theme=high-contrast)](https://github.com/jjineeq/github-readme-activity-graph)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jangsung0212)](https://solved.ac/jangsung0212)
 -->
 
