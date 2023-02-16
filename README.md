@@ -26,6 +26,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=Jjineeq:jangsung0212@gmail.com)](mailto:jangsung0212@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJjineeq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/Jjineeq.svg?view=today-total&extraCount=580&color=49ee0b)](https://hits.sh/github.com/Jjineeq/)
 <!--
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 	
