@@ -17,12 +17,26 @@
 -->
 
 #
-	
-![Build Status](https://img.shields.io/badge/-Python-black)
-![Build Status](https://img.shields.io/badge/-Rstudio-black)
-![Build Status](https://img.shields.io/badge/-MySQL-black)
-![Build Status](https://img.shields.io/badge/-C-black)
-![Build Status](https://img.shields.io/badge/-C++-black)
+<h3 align="center">Tech Stack</h3>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=Rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<br>
+<br>
+<h3 align="center">Tool</h3>
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/SamsungBrightics-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=Jjineeq:jangsung0212@gmail.com)](mailto:jangsung0212@gmail.com)
@@ -39,9 +53,6 @@
 	
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 	
-
-
-
 
 
 
