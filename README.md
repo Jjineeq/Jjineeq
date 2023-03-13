@@ -21,8 +21,9 @@
 ![Build Status](https://img.shields.io/badge/-Python-black)
 ![Build Status](https://img.shields.io/badge/-Rstudio-black)
 ![Build Status](https://img.shields.io/badge/-MySQL-black)
-![Build Status](https://img.shields.io/badge/-C++-black)
 ![Build Status](https://img.shields.io/badge/-C-black)
+![Build Status](https://img.shields.io/badge/-C++-black)
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=Jjineeq:jangsung0212@gmail.com)](mailto:jangsung0212@gmail.com)
 	
