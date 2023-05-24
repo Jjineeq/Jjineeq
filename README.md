@@ -49,14 +49,14 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-
+<!--
 <br>
 <h3 align="center">Sometime used</h3>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
-
+-->
 <br>
 <h3 align="center">Contact</h3>
 
