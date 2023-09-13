@@ -1,10 +1,6 @@
 <div align = "center">
 
-### Hi there 
-### It's not officially open yet
-### I'm just using it as a cloud
-### You can use the code at any time
-	
+### TUKOREA IDALAB SeongHo JANG
 #
 
 	
