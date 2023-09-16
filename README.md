@@ -2,7 +2,7 @@
 
 ### TUKOREA IDALAB 
 #
-###SeongHo JANG
+### SeongHo JANG
 #
 
 	
