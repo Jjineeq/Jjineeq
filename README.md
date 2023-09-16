@@ -1,6 +1,8 @@
 <div align = "center">
 
-### TUKOREA IDALAB SeongHo JANG
+### TUKOREA IDALAB 
+#
+###SeongHo JANG
 #
 
 	
