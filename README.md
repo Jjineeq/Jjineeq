@@ -5,7 +5,7 @@
 ### SeongHo JANG
 #
 
-# My CV url : https://jjineeq.github.io/
+### My CV url : https://jjineeq.github.io/
 	
 ![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq&show_icons=true&theme=dark)
 
