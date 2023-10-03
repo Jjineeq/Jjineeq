@@ -5,6 +5,7 @@
 ### SeongHo JANG
 #
 
+# My CV url : https://jjineeq.github.io/
 	
 ![Jjineeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjineeq&show_icons=true&theme=dark)
 
@@ -15,7 +16,7 @@
 [![Jjineeq's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jjineeq&theme=high-contrast)](https://github.com/jjineeq/github-readme-activity-graph)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jangsung0212)](https://solved.ac/jangsung0212)
 -->
-
+<!--
 #
 <h3 align="center">Tech Stack</h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
@@ -47,7 +48,7 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-<!--
+
 <br>
 <h3 align="center">Sometime used</h3>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
