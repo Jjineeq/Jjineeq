@@ -1,6 +1,6 @@
 <div align = "center">
 
-TUKOREA IDALAB 
+DMQA Lab
 
 SeongHo JANG
 
