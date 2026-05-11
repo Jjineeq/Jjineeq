@@ -1,4 +1,6 @@
+<!--
 <div align = "center">
+
 
 DMQA Lab
 
@@ -8,6 +10,8 @@ SeongHo JANG
 
 [![Jjineeq's github activity graph](https://github-readme-stats.vercel.app/api?username=Jjineeq&include_all_commits=true&show_icons=true&theme=high-contrast)](https://github.com/jjineeq/github-readme-activity-graph)
 
+-->
+Hi
 
 <!--
 My CV url : https://jjineeq.github.io/
