@@ -65,14 +65,14 @@ My CV url : https://jjineeq.github.io/
 <img src="https://img.shields.io/badge/PremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=AdobeLightroom&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
--->
+
 <br>
 <h3 align="center">Contact</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=Jjineeq:jangsung0212@gmail.com)](mailto:jangsung0212@gmail.com)
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJjineeq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+-->
 <!--
 [![Hits](https://hits.sh/github.com/Jjineeq.svg?view=today-total&extraCount=580&color=49ee0b)](https://hits.sh/github.com/Jjineeq/)
 
